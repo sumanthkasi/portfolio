@@ -49,7 +49,6 @@ function App() {
               <h4>Languages</h4>
               <ul>
                 <li>Python</li>
-                <li>Java</li>
                 <li>C</li>
                 <li>JavaScript</li>
               </ul>
